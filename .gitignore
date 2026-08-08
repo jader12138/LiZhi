@@ -1,0 +1,4 @@
+# 忽略全目录下的.DS_Store
+**/.DS_Store
+__MACOSX/
+._*
